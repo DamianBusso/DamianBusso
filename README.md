@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 <h2 align="left">Hey 👋</h2>
 
 ###
@@ -51,7 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DamianBusso/DamianBusso/output/snake.svg" alt="Snake animation" />
 
 ###
 
