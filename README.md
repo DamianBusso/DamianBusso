@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Soy programador Backend con Python y FastApi</h2>
+<h2 align="left">Soy programador Backend con Python </h2>
 
 ###
 
