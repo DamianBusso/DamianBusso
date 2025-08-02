@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">✨ Me especializo en Python cada día para ser mejor en el desarrollo.<br>📚 Actualmente estoy fijado en backend con Django y bases de datos con SQL<br>Mi deseo es poder crear software eficaz que simplifique tareas tediosas</h3>
+<h3 align="left">✨ Me especializo en Python cada día para ser mejor en el desarrollo.<br>📚 Actualmente estoy fijado en backend con Django y bases de datos con SQL.<br>Mi deseo es poder crear software eficaz que simplifique tareas tediosas</h3>
 
 ###
 
@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fDjango/Django-original.svg" height="40" alt="Django logo"  />
 </div>
 
 ###
