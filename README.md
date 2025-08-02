@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">✨ Creo código desde hace 1 año y este readme lo actualizare cada año para demostrar mi experiencia.<br>📚 Actualmente estoy aprendiendo AWS (SageMaker, OpenSearch) y<br>Programacion fullstack con html, php, javascript.</h3>
+<h3 align="left">✨ Me especializo en Python cada día para ser mejor en el desarrollo.<br>📚 Actualmente estoy fijado en backend con Django y bases de datos con SQL<br>Mi deseo es poder crear software eficaz que simplifique tareas tediosas</h3>
 
 ###
 
