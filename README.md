@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fDjango/Django-original.svg" height="40" alt="Django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fFastApi/FastApi-original.svg" height="40" alt="FastApi logo"  />
 </div>
 
 ###
