@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">✨ Me especializo en Python cada día para ser mejor en el desarrollo.<br>📚 Actualmente estoy fijado en backend con Django y bases de datos con SQL.<br>Mi deseo es poder crear software eficaz que simplifique tareas tediosas</h3>
+<h3 align="left">✨ Me especializo en Python cada día para ser mejor en el desarrollo.<br>📚 Actualmente estoy fijado en backend con Django/FastApi y bases de datos con SQL.<br>Mi deseo es poder crear software eficaz que simplifique tareas tediosas</h3>
 
 ###
 
