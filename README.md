@@ -1,70 +1,113 @@
-## 
-<h2 align="left">Hey 👋</h2>
+# Hola, soy Damián Busso 👋
 
-###
+## Backend Developer Junior | Python | FastAPI | PostgreSQL
 
-<p align="left">Mi nombre es Damian Busso</p>
+Soy desarrollador backend junior orientado a la creación de APIs REST,
+modelado de bases de datos y desarrollo de soluciones con Python.
 
-###
+Actualmente trabajo en proyectos propios utilizando FastAPI, Django,
+PostgreSQL, Supabase, SQLite y Git.
 
-<h2 align="left">Soy programador Backend con Python </h2>
+Busco mi primera oportunidad profesional como Backend Developer Junior
+o Trainee, donde pueda aportar compromiso, capacidad de resolución y
+aprendizaje constante.
 
-###
+---
 
-<p align="left">Puedes conocerme más en mis redes:</p>
+## Tecnologías principales
 
-###
+### Backend
 
-<div align="left">
-        <a href= "https://www.linkedin.com/in/damian-busso-107760219/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-        <a href= "https://www.facebook.com/profile.php?id=100004780006308"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-        <a href= "https://www.instagram.com/damibusso/%3Cndfzd"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+- Python
+- FastAPI
+- Django
+- REST APIs
+- Pydantic
 
-###
+### Bases de datos
 
-<h3 align="left">✨ Me especializo en Python cada día para ser mejor en el desarrollo.<br>📚 Actualmente estoy fijado en backend con Django/FastApi y bases de datos con SQL.<br>Mi deseo es poder crear software eficaz que simplifique tareas tediosas</h3>
+- PostgreSQL
+- Supabase
+- SQLite
+- SQL
 
-###
+### Herramientas
 
-<p align="left">Tecnologias y lenguajes que utilizo :</p>
+- Git
+- GitHub
+- Docker
+- Visual Studio Code
+- Linux
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-</div>
+## Proyectos destacados
 
-###
+### API de progreso de alumnos
 
+API REST desarrollada con FastAPI para registrar ejercicios, calcular
+promedios y consultar el progreso de estudiantes.
 
-###
+Características:
 
+- Endpoints REST
+- Validación de datos con Pydantic
+- Manejo de errores HTTP
+- Reglas de negocio
+- Documentación automática con Swagger
 
-<!--
-**DamianBusso/DamianBusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Ver repositorio](https://github.com/DamianBusso/desafio-backend)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sistema de gestión de inventario
+
+Aplicación de escritorio desarrollada con Python para administrar
+productos, movimientos, stock y fechas de vencimiento.
+
+Tecnologías:
+
+- Python
+- PyQt5
+- SQLite
+- SQL
+
+[Ver repositorio](https://github.com/DamianBusso/sistema-inventario)
+
+---
+
+### Sistema de inventario para Android
+
+Versión móvil de un sistema de inventario desarrollada con Python y Kivy.
+
+Tecnologías:
+
+- Python
+- Kivy
+- SQLite
+- Buildozer
+
+[Ver repositorio](https://github.com/DamianBusso/sistema-de-inventario_android)
+
+---
+
+## Actualmente aprendiendo
+
+- Arquitectura de APIs con FastAPI
+- PostgreSQL y Supabase
+- Docker
+- Testing con Pytest
+- Autenticación JWT
+- Desarrollo backend con Django
+
+---
+
+## Contacto
+
+- LinkedIn: [Damián Busso](https://www.linkedin.com/in/damian-busso-107760219/)
+- GitHub: [DamianBusso](https://github.com/DamianBusso)
+
+---
+
+Estoy abierto a oportunidades como Backend Developer Junior, Trainee
+o desarrollador Python.
