@@ -76,21 +76,6 @@ Tecnologías:
 
 ---
 
-### Sistema de inventario para Android
-
-Versión móvil de un sistema de inventario desarrollada con Python y Kivy.
-
-Tecnologías:
-
-- Python
-- Kivy
-- SQLite
-- Buildozer
-
-[Ver repositorio](https://github.com/DamianBusso/sistema-de-inventario_android)
-
----
-
 ## Actualmente aprendiendo
 
 - Arquitectura de APIs con FastAPI
