@@ -7,10 +7,6 @@ Backend Developer especializado en Python, con experiencia desarrollando APIs RE
 Actualmente trabajo en proyectos propios utilizando FastAPI, Django,
 PostgreSQL, Supabase, SQLite y Git.
 
-Busco mi primera oportunidad profesional como Backend Developer Junior
-o Trainee, donde pueda aportar compromiso, capacidad de resolución y
-aprendizaje constante.
-
 ---
 
 ## Tecnologías principales
