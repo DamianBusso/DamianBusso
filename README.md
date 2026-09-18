@@ -2,8 +2,7 @@
 
 ## Backend Developer Junior | Python | FastAPI | PostgreSQL
 
-Soy desarrollador backend junior orientado a la creación de APIs REST,
-modelado de bases de datos y desarrollo de soluciones con Python.
+Backend Developer especializado en Python, con experiencia desarrollando APIs REST con FastAPI/Django, PostgreSQL, Docker y Git, y experiencia práctica trabajando en un entorno de desarrollo colaborativo
 
 Actualmente trabajo en proyectos propios utilizando FastAPI, Django,
 PostgreSQL, Supabase, SQLite y Git.
